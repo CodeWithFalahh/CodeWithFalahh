@@ -14,9 +14,13 @@
 
 - 🔭 I’m currently working on **My Personal Portfolio website**
 
-- 🌱 I’m currently learning **- Full Stack Web Development - Advanced JavaScript and Frameworks (React / Node.js) - Backend Development with PHP & MySQL**
+- 🌱 I’m currently learning **- Full Stack Web Development
+- - Advanced JavaScript and Frameworks (React / Node.js)
+  - - Backend Development with PHP & MySQL**
 
-- 💬 Ask me about **I love building beautiful and functional websites. - I am passionate about learning full stack development and exploring new technologies. - Always excited to solve problems and create projects that make life easier.**
+- 💬 Ask me about **I love building beautiful and functional websites.
+-  I am passionate about learning full stack development and exploring new technologies.
+-   Always excited to solve problems and create projects that make life easier.**
 
 - 📫 How to reach me **devfalah.khan126@gmail.com**
 
