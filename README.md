@@ -1,5 +1,5 @@
 
-![MasterHead]([https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_cdlnLWc5oEdMrYm63KKJjUDYRRsgzwKeOH8yTLfFQzkhREvTeL9CjlQiKY9Q8FukLNo&usqp=CAU)0])  
+![MasterHead]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_cdlnLWc5oEdMrYm63KKJjUDYRRsgzwKeOH8yTLfFQzkhREvTeL9CjlQiKY9Q8FukLNo&usqp=CAU])  
 
 
 <h1 align="center">Hi 👋, I'm Falah Khan</h1>
