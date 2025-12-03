@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **devfalah.khan126@gmail.com**
 
-- ⚡ Fun fact **I think I am sometime funny.**
+- ⚡ Fun fact **I think I’m funny sometimes… at least I laugh at my own jokes 😆**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
